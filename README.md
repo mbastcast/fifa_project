@@ -1,4 +1,4 @@
-# fifa_project
+# Football EDA project
 
 Turquoise FC has a spare 1.6M euros to spend on footballers and wants to have: 
 
